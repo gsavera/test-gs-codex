@@ -1,4 +1,5 @@
 using GS.PrototipoCodex.Models;
+using TaskStatus = GS.PrototipoCodex.Models.TaskStatus;
 
 namespace GS.PrototipoCodex.Repositories
 {
